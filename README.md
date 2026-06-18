@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Ignacio 👋</h1>
 
 <p align="center">
-  <b>Programador Junior · Ingeniero de Software en formación · Castellón de la Plana</b><br>
-  <i>Aprendizaje autodidacta · Código abierto · Mejora continua</i>
+  <b>Programador Junior · Tecnico de Sistemas y Redes · Castellón de la Plana</b><br>
+  <i>Pionero en experiencia con IA · Código abierto · Paciencia ante la barra de progreso</i>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;width:30%;border-bottom:1px solid #1d2128;">🎯 <b style="color:#e5e5e5;">Rol</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Programador Junior · Ingeniero de Software en formación</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Programador Junior · Tecnico de Sistemas y Redes</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">📍 <b style="color:#e5e5e5;">Ubicación</b></td>
@@ -87,11 +87,11 @@
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">🎓 <b style="color:#e5e5e5;">Formación</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">FP DAW + aprendizaje autodidacta continuo en abierto</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">FP DAW + aprendizaje proactivo de nuevas tecnologias</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">🗣️ <b style="color:#e5e5e5;">Idiomas</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Español (nativo) · Inglés técnico (lectura de docs)</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Español (nativo) · Inglés técnico (lectura fluida)</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;">⏰ <b style="color:#e5e5e5;">Disponibilidad</b></td>
@@ -101,7 +101,7 @@
 
 ---
 
-## 🚀 Lo que estoy construyendo ahora
+## 🚀 Actualmente desarrollando
 
 🔭 Concurrencia avanzada en **Rust** (lifetimes, async, channels)
 🔭 Pipelines **CMake** modulares para C++ de escritorio
@@ -181,4 +181,4 @@
 
 ---
 
-<sub>Construido en abierto · Programador Junior · Hecho con ❤️ y commits pequeños desde Castellón de la Plana.</sub>
+<sub>Arquitectura y orquestacion · Programador Junior · Hecho con ❤️ y esquematizacion avanzada desde Castellón de la Plana.</sub>
