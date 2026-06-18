@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Ignacio 👋</h1>
 
 <p align="center">
-  <b>Programador Junior · Tecnico de Sistemas y Redes · Castellón de la Plana</b><br>
-  <i>Pionero en experiencia con IA · Código abierto · Paciencia ante la barra de progreso</i>
+  <b>Programador Junior · Mantenimiento y Optimizacion de Sistemas y Redes · Castellón de la Plana</b><br>
+  <i>Experiencia de workflow aplicando IA · Código abierto · Paciencia ante la barra de progreso</i>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;width:30%;border-bottom:1px solid #1d2128;">🎯 <b style="color:#e5e5e5;">Rol</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Programador Junior · Tecnico de Sistemas y Redes</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Programador Junior · Mantenimiento y Optimizacion de Sistemas y Redes</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">📍 <b style="color:#e5e5e5;">Ubicación</b></td>
@@ -103,10 +103,10 @@
 
 ## 🚀 Actualmente desarrollando
 
-🔭 Concurrencia avanzada en **Rust** (lifetimes, async, channels)
-🔭 Pipelines **CMake** modulares para C++ de escritorio
-🔭 **RAG ligero** con embeddings locales para proyectos personales
-🔭 Tipos avanzados de **TypeScript** y patrones de configuración
+🔭 **Concurrecia avanzada** de pipelines moudulares en lenguajes conocidos.
+🔭 Orquestacion y arquitectura de plugins/tools para **IA Agentica**.
+🔭 Crecimiento personal con proyectos **OpenSource** con vision de sentido comun.
+🔭 Flujos **automaticos de ahorro** local en relaccion con herramientas para frameworks.
 
 ---
 
