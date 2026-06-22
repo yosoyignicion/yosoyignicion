@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Ignacio 👋</h1>
 
 <p align="center">
-  <b>Programador Junior · Mantenimiento y Optimizacion de Sistemas y Redes · Castellón de la Plana</b><br>
-  <i>Experiencia de workflow aplicando IA · Código abierto · Paciencia ante la barra de progreso</i>
+  <b>AI-Driven Software Engineer & Orchestrator · Castellón de la Plana · Remoto</b><br>
+  <i>Automatización con IA local · Integración LLM + MCP · SaaS, B2B y optimización web</i>
 </p>
 
 <p align="center">
@@ -18,6 +18,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,rust,ts,js,html,css,cmake,linux,ollama&theme=dark&perline=10" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Orchestrator-e11d48?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/MCP-Agentic-e11d48?style=for-the-badge&logo=robot&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/LLM_Local-Ollama_·_LM_Studio-e11d48?style=for-the-badge&logo=mlflow&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/SaaS-Auditoría-e11d48?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SaaS"/>
 </p>
 
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #e11d48;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
@@ -70,7 +77,7 @@
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;width:30%;border-bottom:1px solid #1d2128;">🎯 <b style="color:#e5e5e5;">Rol</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Programador Junior · Mantenimiento y Optimizacion de Sistemas y Redes</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">AI-Driven Software Engineer & Orchestrator · Automatización LLM + MCP</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">📍 <b style="color:#e5e5e5;">Ubicación</b></td>
@@ -78,7 +85,7 @@
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">🧠 <b style="color:#e5e5e5;">Foco</b></td>
-    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Sistemas nativos (C++/Rust), Automatización con IA local, SEO técnico</td>
+    <td style="padding:14px 18px;color:#e5e5e5;border-bottom:1px solid #1d2128;">Orquestación IA + MCP, SaaS B2B, LLMs locales, Automatización web</td>
   </tr>
   <tr>
     <td style="padding:14px 18px;color:#9ca3af;border-bottom:1px solid #1d2128;">🎓 <b style="color:#e5e5e5;">Formación</b></td>
@@ -98,14 +105,22 @@
 
 ## 🚀 Actualmente desarrollando
 
-🔭 **Concurrecia avanzada** de pipelines moudulares en lenguajes conocidos.
-🔭 Orquestacion y arquitectura de plugins/tools para **IA Agentica**.
-🔭 Crecimiento personal con proyectos **OpenSource** con vision de sentido comun.
-🔭 Flujos **automaticos de ahorro** local en relaccion con herramientas para frameworks.
+🔭 **Orchestrator-X** — SaaS de auditoría web con IA: headless extraction + análisis LLM + dashboard premium.
+🔭 Orquestación y arquitectura de **plugins/tools para IA Agéntica** (MCP, Hermes Agent, tool calling).
+🔭 Integración de **LLMs locales** (Ollama, LM Studio) en proyectos B2B con aislamiento de datos (PbD).
+🔭 Crecimiento personal con proyectos **OpenSource** con visión de sentido común.
+🔭 Flujos **automáticos de ahorro** local en relación con herramientas para frameworks.
 
 ---
 
 ## 📦 Proyectos destacados
+
+<table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:10px;margin:8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
+  <tr><td style="padding:14px 18px;">
+    <a href="https://github.com/yosoyignicion/orchestrator-x"><b style="color:#e5e5e5;">Orchestrator-X</b> <span style="color:#e11d48;">· Next.js + FastAPI + Ollama</span></a><br>
+    <span style="color:#9ca3af;font-size:90%;">SaaS de auditoría web con IA: extracción headless + análisis LLM + dashboard premium. Pipeline completo ~35s.</span>
+  </td></tr>
+</table>
 
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:10px;margin:8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr><td style="padding:14px 18px;">
@@ -176,4 +191,4 @@
 
 ---
 
-<sub>Arquitectura y orquestacion · Programador Junior · Hecho con ❤️ y esquematizacion avanzada desde Castellón de la Plana.</sub>
+<sub>AI-Driven Software Engineer & Orchestrator · Automatización LLM + MCP · Hecho con ❤️ y esquematización avanzada desde Castellón de la Plana.</sub>
