@@ -135,13 +135,6 @@
 
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:10px;margin:8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr><td style="padding:14px 18px;">
-    <a href="https://github.com/yosoyignicion/MultiStream-Companion"><b style="color:#e5e5e5;">MultiStream-Companion</b> <span style="color:#e11d48;">· Rust</span></a><br>
-    <span style="color:#9ca3af;font-size:90%;">App unificada para streamers (Twitch + Kick) con control de OBS y keyring seguro.</span>
-  </td></tr>
-</table>
-
-<table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:10px;margin:8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
-  <tr><td style="padding:14px 18px;">
     <a href="https://github.com/yosoyignicion/Figma.Make.Interpreter"><b style="color:#e5e5e5;">Figma.Make.Interpreter</b> <span style="color:#e11d48;">· Python</span></a><br>
     <span style="color:#9ca3af;font-size:90%;">Conversor open source para contexto de diseño Figma a formatos abiertos.</span>
   </td></tr>
