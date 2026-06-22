@@ -32,11 +32,6 @@
     <td style="padding:10px 18px;color:#9ca3af;">Motores nativos (NexusStudio, AssetShrink), CMake</td>
   </tr>
   <tr>
-    <td style="padding:10px 18px;color:#e5e5e5;font-family:ui-monospace,monospace;border-bottom:1px solid #1d2128;">Rust</td>
-    <td style="padding:10px 18px;width:160px;"><span style="color:#e11d48;">▰▰</span><span style="color:#3a3a3a;">▱▱</span></td>
-    <td style="padding:10px 18px;color:#9ca3af;">Apps de escritorio (MultiStream-Companion), concurrencia</td>
-  </tr>
-  <tr>
     <td style="padding:10px 18px;color:#e5e5e5;font-family:ui-monospace,monospace;border-bottom:1px solid #1d2128;">Python</td>
     <td style="padding:10px 18px;width:160px;"><span style="color:#e11d48;">▰▰▰</span><span style="color:#3a3a3a;">▱</span></td>
     <td style="padding:10px 18px;color:#9ca3af;">Scripting, IA local, herramientas CLI</td>
