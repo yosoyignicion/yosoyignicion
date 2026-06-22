@@ -109,7 +109,7 @@
 
 <table width="100%" style="border-collapse:separate;border-spacing:0;background:#0d1117;border:1px solid #1d2128;border-radius:10px;margin:8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
   <tr><td style="padding:14px 18px;">
-    <a href="https://github.com/yosoyignicion/awesome-ignisky"><b style="color:#e5e5e5;">Awesome-IgniSky Pack</b> <span style="color:#e11d48;">· C++17</span></a><br>
+    <a href="https://github.com/yosoyignicion/awesome-ignisky"><b style="color:#e5e5e5;">Awesome-IgniSky Pack</b> <span style="color:#e11d48;">· Shell/Makerfile</span></a><br>
     <span style="color:#9ca3af;font-size:90%;">El ecosistema completo de herramientas AI para Hermes Agent.</span>
   </td></tr>
 </table>
