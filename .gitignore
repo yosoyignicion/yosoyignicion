@@ -1,9 +1,53 @@
-# OS / editor
+# ─────────────────────────────────────────────────────────────
+# Repositorio de PERFIL (yosoyignicion/yosoyignicion)
+# Lo público e intencionado es: README.md · assets/*.svg ·
+# CV_Ignacio_Badenes_Tecnico.pdf · LICENSE.
+# Todo lo demás aquí es local: transparencia no es exponer claves.
+# ─────────────────────────────────────────────────────────────
+
+# Sistema operativo
 .DS_Store
+._*
 Thumbs.db
+Desktop.ini
+
+# Editores / IDE
 *.swp
+*.swo
+*~
 .idea/
 .vscode/
 
-# Local agent state
+# Estado local de agentes (memoria, sesiones, caché) — no publicar
 .engram/
+.opencode/
+.claude/
+.cursor/
+.continue/
+.aider*
+.specstory/
+
+# Material de trabajo local — borrador largo del perfil, no publicar
+yosoyignicion.md
+
+# Secretos y credenciales — nunca al repo
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+id_rsa*
+id_ed25519*
+id_ecdsa*
+credentials.json
+secrets.json
+
+# Temporales y ruido
+*.tmp
+*.bak
+*.orig
+*.rej
+*.log
