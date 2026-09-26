@@ -34,8 +34,17 @@ que hace el programa.
 
 ### Proyectos destacados
 
-Tres desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde una
-óptica distinta de mi perfil: **datos, automatización y rendimiento**.
+Cuatro desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde
+una óptica distinta de mi perfil: **seguridad, datos, automatización y rendimiento**.
+
+#### 📡 [Aethernet](https://github.com/yosoyignicion/Aethernet)
+*Python · NiceGUI · FastAPI · SQLite · nmcli (NetworkManager) · scapy*
+
+Audita tu WiFi doméstico sin salir de tu equipo: escaneo pasivo con `nmcli`, motor de reglas
+(evil twin, deauth, canal saturado), inventario LAN y monitor no disruptivo. Lo activo solo si lo
+pides y todo degrada con gracia según el hardware.
+
+`146 tests` · `CI en verde (Python 3.11/3.12)` · `mypy --strict sin errores` · `100% local, sin nube ni telemetría`
 
 #### 🔎 [LocalGrant-Finder](https://github.com/yosoyignicion/LocalGrant-Finder)
 *Python · FastAPI · pgvector · SQLite / PostgreSQL · Docker*
@@ -122,8 +131,17 @@ does.
 
 ### Featured projects
 
-Three self-driven builds, published and maintained. Each one solves a concrete problem from a
-different angle of my profile: **data, automation and performance**.
+Four self-driven builds, published and maintained. Each one solves a concrete problem from a
+different angle of my profile: **security, data, automation and performance**.
+
+#### 📡 [Aethernet](https://github.com/yosoyignicion/Aethernet)
+*Python · NiceGUI · FastAPI · SQLite · nmcli (NetworkManager) · scapy*
+
+Audits your home WiFi without leaving your machine: passive scanning via `nmcli`, a rules engine
+(evil twin, deauth, saturated channel), LAN inventory and a non-disruptive monitor. Active only when
+asked, and everything degrades gracefully with the hardware.
+
+`146 tests` · `green CI (Python 3.11/3.12)` · `mypy --strict, 0 errors` · `100% local, no cloud or telemetry`
 
 #### 🔎 [LocalGrant-Finder](https://github.com/yosoyignicion/LocalGrant-Finder)
 *Python · FastAPI · pgvector · SQLite / PostgreSQL · Docker*
