@@ -34,8 +34,8 @@ que hace el programa.
 
 ### Proyectos destacados
 
-Cuatro desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde
-una óptica distinta de mi perfil: **seguridad, datos, automatización y rendimiento**.
+Cinco desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde
+una óptica distinta de mi perfil: **seguridad, criptografía, datos, automatización y rendimiento**.
 
 #### 📡 [Aethernet](https://github.com/yosoyignicion/Aethernet)
 *Python · NiceGUI · FastAPI · SQLite · nmcli (NetworkManager) · scapy*
@@ -69,6 +69,15 @@ Comprime y convierte imágenes en lote, al 100% en local y sin subir nada a serv
 multihilo, comparador visual y binario listo para Linux, macOS y Windows.
 
 `release v1.0.0` · `CI en 3 sistemas` · `1 ⭐`
+
+#### 🔐 [pass-encrypt-env](https://github.com/yosoyignicion/pass-encrypt-env)
+*Python · GTK3 · Argon2id · AES‑256‑GCM · TOTP · systemd*
+
+Bóveda local de secretos con contraseña maestra y segundo factor TOTP: un agente de sesión sirve las
+claves API a tus apps durante todo el escritorio **sin volver a pedir nada**. Cifrado en reposo,
+cero nube y endurecimiento del proceso.
+
+`19 tests` · `CI en verde (Python 3.11/3.12)` · `Argon2id + AES‑256‑GCM` · `2FA (TOTP)` · `bandit limpio`
 
 ### Herramientas
 
@@ -131,8 +140,8 @@ does.
 
 ### Featured projects
 
-Four self-driven builds, published and maintained. Each one solves a concrete problem from a
-different angle of my profile: **security, data, automation and performance**.
+Five self-driven builds, published and maintained. Each one solves a concrete problem from a
+different angle of my profile: **security, cryptography, data, automation and performance**.
 
 #### 📡 [Aethernet](https://github.com/yosoyignicion/Aethernet)
 *Python · NiceGUI · FastAPI · SQLite · nmcli (NetworkManager) · scapy*
@@ -166,6 +175,15 @@ Compresses and converts images in bulk, 100% locally and without uploading anyth
 Multithreaded engine, visual comparator and binaries for Linux, macOS and Windows.
 
 `release v1.0.0` · `CI on 3 systems` · `1 ⭐`
+
+#### 🔐 [pass-encrypt-env](https://github.com/yosoyignicion/pass-encrypt-env)
+*Python · GTK3 · Argon2id · AES‑256‑GCM · TOTP · systemd*
+
+A local secrets vault with a master password and TOTP second factor: a session agent serves your
+API keys to apps for the whole desktop session **without asking again**. Encrypted at rest, zero
+cloud and a hardened process.
+
+`19 tests` · `green CI (Python 3.11/3.12)` · `Argon2id + AES‑256‑GCM` · `2FA (TOTP)` · `bandit clean`
 
 ### Toolbox
 
