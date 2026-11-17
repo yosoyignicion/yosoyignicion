@@ -32,7 +32,7 @@ Fuera del día a día, construyo y publico **herramientas propias** de automatiz
 
 ## Proyectos destacados
 
-Seis desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde una óptica distinta: **seguridad, criptografía, datos, automatización, rendimiento y RAG local**.
+Seis desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un problema concreto desde una óptica distinta: **RAG local, auditoría, datos, automatización, transcripción y rendimiento**.
 
 | Proyecto | Stack | Descripción | Métricas |
 |----------|-------|-------------|----------|
@@ -40,7 +40,7 @@ Seis desarrollos autónomos, publicados y mantenidos. Cada uno resuelve un probl
 | **[Aethernet](https://github.com/yosoyignicion/Aethernet)** | `Python` `NiceGUI` `FastAPI` `SQLite` `nmcli` `scapy` | Audita tu WiFi doméstico sin salir de tu equipo: escaneo pasivo, motor de reglas (evil twin, deauth, canal saturado), inventario LAN y monitor no disruptivo. Todo 100% local, sin nube ni telemetría. | `146 tests` ✅ · `CI verde (3.11/3.12)` · `mypy --strict 0 errores` |
 | **[LocalGrant-Finder](https://github.com/yosoyignicion/LocalGrant-Finder)** | `Python` `FastAPI` `pgvector` `SQLite/PostgreSQL` `Docker` | Convierte el BOE en decisiones de financiación: ingiere y normaliza subvenciones públicas, búsqueda híbrida (BM25 + semántica) y seguimiento por fases. Funciona offline, sin API keys. | `69 tests` ✅ · `CI verde` · `Migraciones Alembic` |
 | **[SystemBridge-AI](https://github.com/yosoyignicion/SystemBridge-AI)** | `Python` `FastAPI` `OCR` `LLM local` `Docker` | Transforma facturas, tickets y escaneos en libro contable equilibrado y auditable: lectura determinista + OCR, valida totales y envía lo dudoso a revisión humana. | `71 tests` ✅ · `Métricas Prometheus` · `Decimal, nunca float` · `Idempotente` |
-| **[pass-encrypt-env](https://github.com/yosoyignicion/pass-encrypt-env)** | `Python` `GTK3` `Argon2id` `AES-256-GCM` `TOTP` `systemd` | Bóveda local de secretos con contraseña maestra + 2FA TOTP y agente de sesión: sirve claves API a tus apps todo el escritorio sin volver a pedir nada. Cifrado en reposo, cero nube, proceso endurecido. | `19 tests` ✅ · `CI verde` · `Argon2id + AES-256-GCM` · `bandit limpio` |
+| **[scribeforge](https://github.com/yosoyignicion/scribeforge)** | `Python` `faster-whisper` `CTranslate2` `Ollama` `Groq` | Transcripción local de audio/vídeo con precisión quirúrgica: actas, resúmenes e informes LLM en 4 pasos. Sin APIs de pago, sin muros de duración (>2 h en bloques con solape), cero telemetría. Reanudable por caché hash y post-procesado anti-alucinación con SRT. | `30+ tests + QA E2E` ✅ · `MIT` · `Transcripción 100% local` · `Ollama/Groq híbrido` |
 | **[AssetShrink](https://github.com/yosoyignicion/AssetShrink)** | `C++17` `WebP` `CMake` `Multiplataforma` | Comprime y convierte imágenes en lote al 100% en local, sin subir nada a servidores. Motor multihilo, comparador visual y binarios listos para Linux, macOS y Windows. | `Release v1.0.0` · `CI en 3 sistemas` · `1 ⭐` |
 
 ---
