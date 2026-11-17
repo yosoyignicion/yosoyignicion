@@ -65,7 +65,7 @@ Si has llegado hasta aquí, ya sabes cómo trabajo: **con método, con tests y s
 
 Si tu proyecto necesita a alguien puntual, ordenado y con muchas ganas de aprender —o solo quieres contrastar una idea— escríbeme. Respondo siempre, y con gusto.
 
-[![Disponible ahora](assets/status-available.svg)](mailto:nbrbadenes99@gmail.com)
+![Disponible ahora](assets/status-available.svg)
 
 ---
 
@@ -74,7 +74,7 @@ Si tu proyecto necesita a alguien puntual, ordenado y con muchas ganas de aprend
 | Canal | Enlace |
 |-------|--------|
 | ✉️ **Email** | [nbrbadenes99@gmail.com](mailto:nbrbadenes99@gmail.com) |
-| 💻 **GitHub** | [github.com/yosoyignicion](https://github.com/yosoyignicion) |
+| 🌐 **Enlaces & formulario** | [yosoyignicion.netlify.app/links](https://yosoyignicion.netlify.app/links) |
 
 📍 **Castellón de la Plana, España**
 
